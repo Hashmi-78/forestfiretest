@@ -10,11 +10,7 @@ app = application
 ridge_model = pickle.load(open('models/ridge.pkl','rb'))
 standard_scaler = pickle.load(open('models/scaler.pkl', 'rb'))
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-@app.route('/predict', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def predict():
     if request.method == 'POST':
         # Use default '0' to avoid NoneType crash if any field is missing
