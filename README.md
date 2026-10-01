@@ -116,12 +116,6 @@ forestfiretest/
 
 ---
 
-## 📷 Screenshots
-
-> ![alt text](<Empty form.png>)
-![alt text](<result form.png>)
----
-
 ## 🧠 Model Details
 
 - **Algorithm:** Ridge Regression
@@ -146,9 +140,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 🙋‍♂️ Author
-**Umar Hashmi**
+**Muhammad Umar Usman Hashmi**
 - GitHub: [@Hashmi-78](https://github.com/Hashmi-78)
-- LinkedIn: www.linkedin.com/in/muhammad-umar-usman-hashmi-4a34002b8
+- LinkedIn: [muhammad-umar-usman-hashmi](https://www.linkedin.com/in/muhammad-umar-usman-hashmi-4a34002b8)
 
 ---
 
